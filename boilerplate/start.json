@@ -1,0 +1,13 @@
+{
+    "apps":[{
+        "name":"{{name}}",
+        "script": "./app.js",
+        "watch": false,
+        "env_dev":{
+            "NODE_ENV":"dev"
+        },
+        "exec_interpreter": "babel-node",
+        "exec_mode": "fork",
+        "log_date_format": "YYYY-MM-DD HH:mm"
+    }]
+}

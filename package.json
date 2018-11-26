@@ -1,0 +1,10 @@
+{
+  "name": "mbx-templates",
+  "version": "1.0.0",
+  "description": "mbx-templates",
+  "author": "8082410@qq.com",
+  "ci": {
+    "version": "8"
+  },
+  "dependencies": {}
+}
